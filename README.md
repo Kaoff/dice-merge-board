@@ -20,4 +20,4 @@ For every issue that you post, you should use the corresponding label
 ### Basic politeness
 A message that begins politely and ends politely will always be more welcomed than others. ;)
 
-Don't forget to say hi, take the time to explain your point, and use emojis to thanks people.
+Don't forget to say hi, take the time to explain your point, and use emojis to thank people.
